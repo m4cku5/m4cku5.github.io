@@ -1,0 +1,15 @@
+---
+layout: page
+title: Books
+permalink: /books
+---
+
+<p>This is a list of books that I've read:</p>
+
+{% for book in site.books_read %}
+  <ul>
+    <li>"<a href="https://amzn.to/2M6Gljm{{ book.title }}</i>" by {{ book.author }}</li>
+  </ul>
+{% endfor %}
+
+Click <a href="">here</a> to see what I'm currently reading or <a href="">here</a> to see my to-read list.

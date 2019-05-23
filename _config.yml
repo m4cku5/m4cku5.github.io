@@ -30,6 +30,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Collections:
+
+collections_dir: my_collections
+
+collections:
+  - books_to-read
+  - books_reading
+  - books_read
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
