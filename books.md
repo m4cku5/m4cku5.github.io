@@ -6,7 +6,8 @@ permalink: /books
 
 <p>This is a list of books that I've read:</p>
 
-{% for book in site.books_read %}
+{% assign sorted_books = site.books_read | reverse %}
+{% for book in sorted_books %}
   <ul>
     <li>"<i>{{ book.title }}</i>" by {{ book.author }}</li>
   </ul>

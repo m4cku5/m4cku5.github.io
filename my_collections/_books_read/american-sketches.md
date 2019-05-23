@@ -1,4 +1,5 @@
 ---
 title: American Sketches - Great Leaders, Creative Thinkers, and Heroes of a Hurricane
 author: Walter Isaacson
+date: 2019-02-24
 ---
