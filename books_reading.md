@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Books / Reading
-permalink: books_reading
-exclude: true
+permalink: /books/reading/
 ---
 
-<p>This is a list of books that I'm reading. Click <a href="./books">here</a> to see what I've read or <a href="./books_to-read">here</a> to see my to-read list.</p>
+<p>This is a list of books that I'm reading (in alphabetical order). Click <a href="/books">here</a> to see what I've read or <a href="/books/to-read">here</a> to see my to-read list.</p>
 
-{% assign sorted_books = site.books_reading | reverse %}
-{% for book in sorted_books %}
+{% for book in site.books %}
+  {% if book.status == 'reading' %}
   <ul>
-    <li>"<i>{{ book.title }}</i>" by {{ book.author }}</li>
+    <li>"<a href="{{ book.link }}"><i>{{ book.title }}</i></a>" by {{ book.author }}</li>
   </ul>
+  {% endif %}
 {% endfor %}
+

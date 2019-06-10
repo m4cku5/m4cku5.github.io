@@ -38,9 +38,10 @@ header_pages:
 collections_dir: my_collections
 
 collections:
-  - books_to-read
-  - books_reading
-  - books_read
+  books:
+    read:
+    reading:
+    to-read:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
