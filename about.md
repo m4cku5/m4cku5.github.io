@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About (Me)
+title: About (me)
 permalink: /about/
 ---
 
@@ -16,5 +16,5 @@ nearly every morning, while in community college, and daydream of getting back t
 married to a superhero, am father to a ninja, and coexist with a serial killer of blue jays. I can
 count to ten in six languages, and swear at you in three. I try to stay fit, torturing myself with
 calisthenics and dumbbells, and am toying with the idea of training for a triathlon. I'm terrible at
-paragraphs and I can't quite seem to go underwater without holding my nose. I prefer to leave parties
-without saying goodbye, and to leave my writings open-ended.
+paragraphs and I can't quite seem to go underwater without holding my nose. Bourbon, neat. I prefer to
+leave parties without saying goodbye, and to leave my writings open-ended.
