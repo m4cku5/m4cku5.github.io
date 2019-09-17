@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+The blog is coming soon. I'm currently writing content. In the meantime, feel
+free to read a bit About (me), or check out the Books page.
