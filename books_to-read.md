@@ -11,7 +11,7 @@ permalink: /books/to-read/
 {% for book in site.books %}
   {% if book.status == 'to-read' %}
   <ul>
-    <li>"<a href="{{ book.link }}"><i>{{ book.title }}</i></a>" (#ad) by {{ book.author }}</li>
+    <li>"<a href="{{ book.link }}"><i>{{ book.title }}</i>"</a> by {{ book.author }}</li>
   </ul>
   {% endif %}
 {% endfor %}

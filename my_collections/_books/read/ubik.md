@@ -1,6 +1,7 @@
 ---
 author: Philip K. Dick
 title: Ubik
-status: reading
+status: read
+date: 2019-12-10
 link:
 ---
