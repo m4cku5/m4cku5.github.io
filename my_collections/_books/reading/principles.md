@@ -1,5 +1,5 @@
 ---
-author: ray dalio
+author: Ray Dalio
 title: Principles
 status: reading
 link:
