@@ -1,6 +1,7 @@
 ---
 author: Ray Dalio
 title: Principles
-status: reading
+status: read
+date: 2020-02-08
 link:
 ---

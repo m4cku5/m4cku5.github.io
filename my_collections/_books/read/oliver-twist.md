@@ -1,6 +1,7 @@
 ---
 author: Charles Dickens
 title: Oliver Twist
-status: reading
+status: read
+date: 2020-12-10
 link:
 ---
