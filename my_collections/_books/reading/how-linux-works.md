@@ -1,6 +1,6 @@
 ---
 title: How Linux Works, 2nd Edition
 author: Brian Ward
-status: to-read
+status: reading
 link: https://amzn.to/2WqOZsC
 ---
