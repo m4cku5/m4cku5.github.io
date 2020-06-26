@@ -1,6 +1,7 @@
 ---
 author: Annalee Newitz
 title: Autonomous
-status: reading
+status: read
+date: 2020-06-21
 link:
 ---
