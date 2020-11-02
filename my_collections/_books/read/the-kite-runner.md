@@ -1,6 +1,7 @@
 ---
 author: Khaled Hosseini
 title: The Kite Runner
-status: reading
+status: read
+date: 2020-11-02
 link:
 ---
