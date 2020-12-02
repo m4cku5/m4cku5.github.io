@@ -1,6 +1,7 @@
 ---
 author: Edward Snowden
 title: Permanent Record
-status: reading
+status: read
+date: 2020-12-01
 link:
 ---
