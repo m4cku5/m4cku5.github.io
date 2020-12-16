@@ -1,6 +1,7 @@
 ---
 author: Ashlee Vance
 title: Elon Musk - Tesla, SpaceX, and the Quest for a Fantastic Future
-status: reading
+status: read
+date: 2020-12-16
 link:
 ---
